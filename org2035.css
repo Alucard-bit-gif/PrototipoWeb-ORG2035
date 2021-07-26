@@ -1,0 +1,74 @@
+* { margin: 0;
+    padding: 0; }
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-image: url('Imagenes/1150124.png');
+  background-repeat: repeat;
+  background-size: cover;
+  padding-top: 35px;
+}
+
+.navbar-logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img{
+  border-radius:50%;
+  margin-bottom: 35px;
+  /*border-color: #0067a5;
+  border-width: 3px;
+  border-style: solid;*/
+}
+
+.navbar{
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.container-fluid{
+  padding-bottom: 25px;
+}
+
+.navbarDown{
+  display: inline-block;
+  list-style-type: none;
+  color:#ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 23px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbarDown:hover{
+  text-decoration: overline;
+  color: #fc791e;
+}
+
+#titulo{
+  text-align: center;
+  color:#0E79E3;
+  padding-top:50px;
+  font-size: 33px;
+  font-weight:bold;
+}
+
+#tabla_valor{
+  display: block;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 70px;
+  text-align: center;
+}
+
+#logoredes{
+    border-radius: 50%;
+    margin-right: 5px;
+}
